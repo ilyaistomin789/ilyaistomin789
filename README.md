@@ -2,7 +2,6 @@
 <img src="https://media.tenor.com/images/75b047c4f6325dd487cdbefad42d6874/tenor.gif"/>
 <img src="https://media.tenor.com/images/75b047c4f6325dd487cdbefad42d6874/tenor.gif"/>
 <img src="https://media.tenor.com/images/75b047c4f6325dd487cdbefad42d6874/tenor.gif"/>
-<img src="https://media.tenor.com/images/75b047c4f6325dd487cdbefad42d6874/tenor.gif"/>
 </div>
 
 <!--
