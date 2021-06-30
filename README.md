@@ -1,7 +1,7 @@
 <div>
-<img src="https://psv4.userapi.com/c537232/u637590115/docs/d34/28ed3eeb8407/zxc.gif?extra=34IsFw2ImHrxXgnkfKzQGOPK_6vrt_lmyd9SLmBTzEBJoug5kOknB7__nlz5rrJD6vS2Dog_4LguCHmmW5s3dIOPoWRQECFQ8-zvUdZSTvybeeKPLVDWEgu7qP5FM0D-4IPqySyaubyT-64GZua09FophA"/>
-<img src="https://psv4.userapi.com/c537232/u637590115/docs/d34/28ed3eeb8407/zxc.gif?extra=34IsFw2ImHrxXgnkfKzQGOPK_6vrt_lmyd9SLmBTzEBJoug5kOknB7__nlz5rrJD6vS2Dog_4LguCHmmW5s3dIOPoWRQECFQ8-zvUdZSTvybeeKPLVDWEgu7qP5FM0D-4IPqySyaubyT-64GZua09FophA"/>
-<img src="https://psv4.userapi.com/c537232/u637590115/docs/d34/28ed3eeb8407/zxc.gif?extra=34IsFw2ImHrxXgnkfKzQGOPK_6vrt_lmyd9SLmBTzEBJoug5kOknB7__nlz5rrJD6vS2Dog_4LguCHmmW5s3dIOPoWRQECFQ8-zvUdZSTvybeeKPLVDWEgu7qP5FM0D-4IPqySyaubyT-64GZua09FophA"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Zxcursed.gif"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Zxcursed.gif"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Zxcursed.gif"/>
 </div>
 
 <!--
